@@ -30,3 +30,7 @@ id
 email
 github
 The github account name will be a clicklable link in the generated html team profile
+
+
+# Technologies used
+NPM module, jest, inquirer, javascript, node.js
