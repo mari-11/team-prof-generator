@@ -35,5 +35,4 @@ The github account name will be a clicklable link in the generated html team pro
 # Technologies used
 NPM module, jest, inquirer, javascript, node.js
 
-## Screenshot
-[![image.jpg](https://i.postimg.cc/Wz96s7FN/image.jpg)](https://postimg.cc/XBCy8dkm)
+
